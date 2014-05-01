@@ -14,6 +14,7 @@ mais esta aqui. <br />
 vamos ver como funciona o fetch!!!!!!   <br />
 RESP: funcionou o fetch!!! <br />
 se nao fizer o fetch zua com HEADS etc/etc/etc/... <br />
+testado... <br />
 FIM. <br />
 </body>
 
