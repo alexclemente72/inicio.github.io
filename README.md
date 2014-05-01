@@ -13,7 +13,7 @@ adicionei esta linha para ver o que acontece... foi expandida e vai ter q ficar.
 mais esta aqui. <br />  
 vamos ver como funciona o fetch!!!!!!   <br />
 RESP: funcionou o fetch!!! <br />
-se nao fizer o fetch zua com <<<<HEADS etc/etc/etc/... <br />
+se nao fizer o fetch zua com HEADS etc/etc/etc/... <br />
 FIM. <br />
 </body>
 
